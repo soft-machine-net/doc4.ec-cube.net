@@ -57,7 +57,7 @@ $ git push origin [任意のブランチ名]
 
 自身のGithubリポジトリのページから、<a href="https://github.com/EC-CUBE/ec-cube" target="_blank">ec-cube</a> へプルリクエストを作成します。
 
-- GitHubの自分のリポジトリから、PullRequestする
+- GitHubの自分のリポジトリaaから、PullRequestする
 
 ### プルリクエストのマージ条件
 
